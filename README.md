@@ -1,2 +1,2 @@
-# project_2_Tracker
- Learning to code in Python and use simple GUI
+#Ark Reset Tracker
+Learning to code in Python and use simple GUI
